@@ -9,9 +9,15 @@ Construir uma chácara num terreno rural de ~1.000 m2 (20 x 50), minimalista (po
 
 - Água;
 - Energia;
-- Gás;
+- Gás e combustível;
 - Saneamento básico;
 - Comida:
     - Frutas;
     - Legumes e verduras;
-    - Proteína
+    - Proteína.
+- Segurança
+
+
+## Fases
+
+### Fase 1 - Prospecção do terreno
